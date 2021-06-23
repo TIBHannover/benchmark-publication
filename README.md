@@ -1,2 +1,9 @@
-# benchmark-publication
-Benchmakr publication for the OSL publishing pipeline
+# Benchmark Publication
+
+Benchmark publication for the OSL publishing pipeline
+
+## Benchmarking
+
+ - Wikidata
+ - PDF generation
+ - Webbook implementation
