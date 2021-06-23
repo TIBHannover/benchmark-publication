@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:fidus" content="67" />
+  </head>
+  <docTitle>
+    <text>Benchmark Book Publication</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Vorderseite</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Titelseite</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>Front Matter</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+      <navPoint id="tH4583122-1">
+        <navLabel><text>Title page</text></navLabel>
+        <content src="document-1.xhtml#H4583122" />
+      </navPoint>
+      <navPoint id="tH5672849-1">
+        <navLabel><text>Copyright Page</text></navLabel>
+        <content src="document-1.xhtml#H5672849" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>Text (Book Body)</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH5988651-2">
+        <navLabel><text>Text parts</text></navLabel>
+        <content src="document-2.xhtml#H5988651" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>Back Matter</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+    </navPoint>
+    <navPoint id="t2">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml#copyright" />
+    </navPoint>
+  </navMap>
+</ncx>
